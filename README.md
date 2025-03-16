@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Mohammed Nabil 👋  
 
-<!--
-**MuhammeedNabil/MuhammeedNabil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Frontend Software Developer** | Passionate about **Web Development**  
+💼 Currently working at **VOIS**  
+🎯 Skilled in **JavaScript, TypeScript, React.js, Next.js, Tailwind, Sass, HTML, Bootstrap**  
 
-Here are some ideas to get you started:
+## 📜 Projects & Certifications  
+Check out my personal projects and certifications:  
+🔗 [mohammednabil.info](https://mohammednabil.info/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Connect with Me  
+- 🌐 [Portfolio](https://mohammednabil.info/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/m-nabilbkr/)  
+- 📘 [Facebook](https://www.facebook.com/MoNbail19/)  
+- 📸 [Instagram](https://www.instagram.com/mohammed_nabil_elpop/)  
+
+Let's build something amazing! ✨
