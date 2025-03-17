@@ -6,6 +6,17 @@
 
 ---
 
+## 🚀 Tech Stack  
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)  
+
+---
+
 ## 📜 Projects & Certifications  
 Check out my personal projects and certifications:  
 🔗 **[mohammednabil.info](https://mohammednabil.info/)**  
@@ -14,7 +25,6 @@ Check out my personal projects and certifications:
 
 ## 📊 GitHub Stats  
 ![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoNabil19&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MoNabil19&layout=compact&theme=tokyonight)  
 
 ---
 
