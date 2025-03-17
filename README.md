@@ -33,7 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" />
 
   <!-- CMS & Content Platforms -->
-   <img src="https://images.ctfassets.net/fo9twyrwpveg/4l81oFstjJ9Jft5gy8qBPM/7de49e79ea5ee866d1db6ea6f3643ecb/contentful-logo.svg" height="40" alt="Contentful" />
+   <img src="[https://images.ctfassets.net/fo9twyrwpveg/4l81oFstjJ9Jft5gy8qBPM/7de49e79ea5ee866d1db6ea6f3643ecb/contentful-logo.svg](https://images.ctfassets.net/jtqsy5pye0zd/6wNuQ2xMvbw134rccObi0q/bf61badc6d6d9780609e541713f0bba6/Contentful_Logo_2.5_Dark.svg?w=384&q=100)" height="40" alt="Contentful" />
   <img src="https://experienceleaguecommunities.adobe.com/t5/image/serverpage/image-id/665966iF376D70C722F4A6B?v=v2" height="40" alt="Adobe Experience Manager (AEM)" />
 
   <!-- Build Tools & Architecture -->
