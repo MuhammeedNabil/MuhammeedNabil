@@ -33,10 +33,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" />
 
   <!-- CMS & Content Platforms -->
-<!-- <img src="https://drive.google.com/file/d/1FBrDfvk6k9cFJ-14vpxU4sn0mRAnRv6q/view?usp=sharing" height="40" alt="Contentful" />
+<!-- <img src="https://drive.google.com/file/d/1FBrDfvk6k9cFJ-14vpxU4sn0mRAnRv6q/view?usp=sharing" height="40" alt="Contentful" /> -->
 
   <!-- Build Tools & Architecture -->
-  <img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" height="40" alt="Nx Console" /> -->
+  <img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" height="40" alt="Nx Console" />
 </p>
 
 ---
