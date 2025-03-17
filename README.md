@@ -33,12 +33,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" />
 
   <!-- CMS & Content Platforms -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Contentful_logo.svg/512px-Contentful_logo.svg.png" height="40" alt="Contentful" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Adobe_Corporate_logo.svg/512px-Adobe_Corporate_logo.svg.png" height="40" alt="Adobe Experience Manager (AEM)" />
+  <img src="https://images.ctfassets.net/fo9twyrwpveg/4l81oFstjJ9Jft5gy8qBPM/7de49e79ea5ee866d1db6ea6f3643ecb/contentful-logo.svg" height="40" alt="Contentful" />
+  <img src="https://experienceleaguecommunities.adobe.com/t5/image/serverpage/image-id/665966iF376D70C722F4A6B?v=v2" height="40" alt="Adobe Experience Manager (AEM)" />
 
   <!-- Build Tools & Architecture -->
   <img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" height="40" alt="Nx Console" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/api/api-original.svg" height="40" alt="RESTful APIs" />
+  <img src="https://www.iconpacks.net/icons/2/free-rest-api-blue-logo-icon-22098-thumb.png" height="40" alt="RESTful APIs" />
 
 </p>
 
