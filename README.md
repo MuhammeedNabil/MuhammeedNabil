@@ -37,11 +37,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Adobe_Corporate_logo.svg/512px-Adobe_Corporate_logo.svg.png" height="40" alt="Adobe Experience Manager (AEM)" />
 
   <!-- Build Tools & Architecture -->
-  <img src="https://avatars.githubusercontent.com/u/88763962?s=200&v=4" height="40" alt="Nx Console" />
+  <img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" height="40" alt="Nx Console" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/api/api-original.svg" height="40" alt="RESTful APIs" />
 
-  <!-- Custom Icon for Portfolio -->
-  <img src="https://img.shields.io/badge/Mohammed%20Nabil-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="40" alt="Mohammed Nabil Portfolio" />
 </p>
 
 ---
@@ -50,7 +48,7 @@
 
 <p align="center">
   <a href="https://mohammednabil.info/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Mohammed%20Nabil-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="40" alt="Mohammed Nabil Portfolio" />
   </a>
 </p>
 
