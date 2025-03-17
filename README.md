@@ -47,7 +47,7 @@
 
 <p align="center">
   <a href="https://mohammednabil.info/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Mohammed Nabil" />
   </a>
 </p>
 
