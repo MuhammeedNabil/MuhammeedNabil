@@ -33,7 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="Jest" />
 
   <!-- CMS & Content Platforms -->
-<img src="https://images.ctfassets.net/fo9twyrwpveg/4l81oFstjJ9Jft5gy8qBPM/7de49e79ea5ee866d1db6ea6f3643ecb/contentful-logo.svg" height="40" alt="Contentful" />
+<img src="[https://images.ctfassets.net/fo9twyrwpveg/4l81oFstjJ9Jft5gy8qBPM/7de49e79ea5ee866d1db6ea6f3643ecb/contentful-logo.svg](https://drive.google.com/file/d/1FBrDfvk6k9cFJ-14vpxU4sn0mRAnRv6q/view?usp=sharing)" height="40" alt="Contentful" />
 
   <!-- Build Tools & Architecture -->
   <img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" height="40" alt="Nx Console" />
